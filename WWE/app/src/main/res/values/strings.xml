@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WWE</string>
+    <string-array name="listOfPlayersOfWWE">
+        <item>John Cena</item>
+        <item>Brock Lesner</item>
+        <item>The Rock</item>
+        <item>Roman Reings</item>
+        <item>Randy Orton</item>
+        <item>Stone Cold</item>
+        <item>Undertaker</item>
+        <item>Triple H</item>
+        <item>Kane</item>
+        <item>Bret Hart</item>
+    </string-array>
+</resources>
